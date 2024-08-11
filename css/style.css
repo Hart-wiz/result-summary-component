@@ -102,6 +102,7 @@ main {
 }
 .summarySection #title b {
   font-style: bold;
+  font-weight: 700;
 }
 
 .summarySection .div {
